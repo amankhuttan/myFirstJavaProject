@@ -15,6 +15,7 @@ public class Calculatorr {
 	{
 		int sub=a-b;
 		System.out.println("Subtraction is: " +sub);
+
 	}
 	
 	
